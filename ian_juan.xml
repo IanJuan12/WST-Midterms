@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+<student>
+    <picture>ian.jpg</picture>
+    <name>Juan, Ian Lawrence</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>ivan.jpg</picture>
+    <name>Alcantara, Ivan</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>james.jpg</picture>
+    <name>Silpao, James Karl</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>drei.jpg</picture>
+    <name>Caballero, Jan Andrei</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>jericho.jpg</picture>
+    <name>Dineros, Jericho</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>paul.jpg</picture>
+    <name>Valderama, Paul Anthony</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>roven.jpg</picture>
+    <name>Gallo, Roven Angelo</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>yhuri.jpg</picture>
+    <name>Evangelista, Yhuri</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>zon.jpg</picture>
+    <name>Tolentino, Frenzon</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+
+<student>
+    <picture>len.jpg</picture>
+    <name>Sison, Len Nathaniel</name>
+    <course>BSIT</course>
+    <yrlvl>3rd Year</yrlvl>
+    <adviser>Engr. Noemi P. Reyes</adviser>
+    <schoolYr>2024-2025</schoolYr>
+</student>
+</students>

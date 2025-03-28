@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+
+<employee>
+    <title> IT310 Activity 4 XML CSS Creation</title>
+    <empNo>~ 2022105733 ~</empNo>
+    <name>Name: <span>Ian Lawrence M. Juan</span></name>
+    <address>Address: <span>304 G. Dela Cruz Street Poblacion, Guiguinto, Bulacan</span></address>
+    <bday>Birthday <span>June 12, 2004</span></bday>
+    <age>Age: <span>20</span></age>
+    <course>Course: <span>Bachelor of Science in Information Techonology</span></course>
+    <empStat>Employmnt Status: <span>Part-Timer</span></empStat>
+    <dept>Department: <span>Student/ College of Information and Communication Technology</span></dept>
+    <dateEmp>Date Employed: <span>February 28, 2025</span></dateEmp>
+    <dateRes>Date Resigned: <span>March 3, 2025</span></dateRes>
+</employee>

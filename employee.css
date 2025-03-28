@@ -1,0 +1,97 @@
+employee{
+    position: relative;
+    background-color: #b0efd5;
+    border: 5px solid #4f97a3;  
+    padding: 40px;
+    margin: auto;
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.8);
+    top: 4em;
+    display: block;
+    text-align: center;
+}
+
+title {
+    position: relative;
+    top: -.5em;
+    text-shadow: 3px 3px 3px rgb(76, 76, 76);
+    display: block;
+    font-size: 2.7em;
+}
+
+ empNo{
+    align-content: center;
+    position: relative;
+    text-shadow: .5px .5px .5px black;
+    top: -.5em;
+    display: block;
+    font-size: 1.5em;
+}
+
+name, address, bday, age, course, empStat, dept, dateEmp, dateRes {
+    position: relative;
+    text-shadow: 1px 1px 1px black;
+    top: -.1em;
+    display: block;
+    font-size: 1em;
+    text-indent: 30px;
+    text-align: left;
+    justify-content: left;
+}
+
+span{
+    color:rgb(21, 19, 0);
+    text-shadow: 1.5px 1.5px 1.5px rgb(190, 190, 190);
+    text-decoration: none;
+}
+
+
+
+title:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+    filter: brightness(1.2) contrast(1.1);
+}
+
+name:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+    filter: brightness(1.2) contrast(1.1);
+}
+
+address:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+    filter: brightness(1.2) contrast(1.1);
+}
+
+age:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+    filter: brightness(1.2) contrast(1.1);
+}
+
+empStat:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+    filter: brightness(1.2) contrast(1.1);
+}
+
+dept:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+    filter: brightness(1.2) contrast(1.1);
+}
+
+dateEmp:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+    filter: brightness(1.2) contrast(1.1);
+}
+
+dateRes:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+    filter: brightness(1.2) contrast(1.1);
+}
